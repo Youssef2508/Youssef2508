@@ -67,9 +67,6 @@ Building scalable systems, programming microcontrollers, and solving real-world 
 | [**Inventory Management System**](https://github.com/Youssef2508/inventory-management-system) | `.NET` `EF Core` `C#` | Scalable backend applying Repository Pattern, Unit of Work, and complex SQL relations. |
 | [**School Management System**](https://github.com/Youssef2508/school-management-system) | `.NET` `EF Core` `C#` | Backend API managing students and courses with full validation and business rules. |
 | [**Door Locker Security System**](https://github.com/Youssef2508/door-locker-security-system) | `ATmega32` `I2C` `UART` | Smart dual-ECU embedded system with EEPROM password storage and PIR motion sensing. |
-| [**Distance Measuring System**](https://github.com/Youssef2508/distance-measuring-system) | `ATmega32` `HC-SR04` | Ultrasonic distance measurement system utilizing signal processing and LCD display. |
-| [**Stop-Watch**](https://github.com/Youssef2508/stop-watch) | `Embedded C` `Timers` | Digital stopwatch using precise microcontroller interrupt-driven timers. |
-| [**Smart-Home-System**](https://github.com/Youssef2508/smart-home-system) | `ATmega32` `Sensors` | Smart home automation system integrating various sensors and actuators. |
 
 <br/>
 <p align="center">
