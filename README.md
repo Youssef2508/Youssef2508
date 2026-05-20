@@ -14,7 +14,7 @@ Building scalable systems, programming microcontrollers, and solving real-world 
   <a href="https://github.com/Youssef2508"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yhassan2582004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://htmlpreview.github.io/?https://github.com/Youssef2508/Youssef2508/blob/main/youssef_hassan_portfolio.html"><img src="https://img.shields.io/badge/PORTFOLIO-FF2D6E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="./Youssef_Hassan's%20CV_2.pdf"><img src="https://img.shields.io/badge/RESUME_CV-00E5FF?style=for-the-badge&logo=reverbnation&logoColor=black" alt="CV"/></a>
+  <a href="./Youssef_Hassan's%20CV.pdf"><img src="https://img.shields.io/badge/RESUME_CV-00E5FF?style=for-the-badge&logo=reverbnation&logoColor=black" alt="CV"/></a>
 </p>
 
 ---
